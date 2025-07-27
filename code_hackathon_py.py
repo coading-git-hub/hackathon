@@ -9,7 +9,7 @@ Original file is located at
 
 #@title 1. Install Dependencies
 # This cell installs all the required Python packages.
-!pip install -q flask flask-cors pyngrok openai-whisper groq spotipy requests
+# !pip install -q flask flask-cors pyngrok openai-whisper groq spotipy requests
 
 #@title 2. Import Libraries and Define Functions
 import os
